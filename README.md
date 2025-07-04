@@ -12,6 +12,7 @@
 ### 🧠 AI/ML
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-blueviolet?style=flat-square&logo=scikit-learn)
+![JupyterLab](https://img.shields.io/badge/JupyterLab-Notebook-orange?style=flat-square&logo=jupyter)
 ![RAG](https://img.shields.io/badge/RAG-VectorDB-orange?style=flat-square&logo=databricks&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=github&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0064a5?style=flat-square&logo=mlflow&logoColor=white)
