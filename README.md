@@ -65,7 +65,7 @@
 
 ## 🧠 Fun Fact
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> “Code is like a forest always crawling with bugs, but beauty lies in the debugging.” – Atharv Salunke (first time writing a quote lol)
 
 ---
 
