@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Atharv Salunke</h1>
 <h3 align="center">Full Stack Developer | AI/ML Enthusiast </h3>
 
-<p align="center">
+<p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&width=500&lines=Passionate+about+Software+and+AI+Development;Full+Stack+MERN%2FPERN+%7C+Flutter+%7C+ML+%7C+Firebase;Exploring+AI+with+MLflow%2C+Ollama%2C+DataBricks;Open+to+collaborations+and+learning+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
@@ -9,7 +9,7 @@
 
 ## 🛠 Tech Stack
 
-### 🧠 AI/ML & Data Engineering
+### 🧠 AI/ML
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-blueviolet?style=flat-square&logo=scikit-learn)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
