@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Atharv Salunke</h1>
-<h3 align="center">Full Stack Developer | App Developer | AI/ML Enthusiast 🚀</h3>
+<h1 align="center">Hey there, I'm Atharv Salunke</h1>
+<h3 align="center">Full Stack Developer | AI/ML Enthusiast </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&width=500&lines=Passionate+about+Software+and+AI+Development;Full+Stack+MERN%2FPERN+%7C+Flutter+%7C+ML+%7C+Firebase;Exploring+AI+with+MLflow%2C+Ollama%2C+DataBricks;Open+to+collaborations+and+learning+%F0%9F%9A%80" alt="Typing SVG" />
@@ -32,11 +32,6 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis)
 
 ---
-
-### 📱 App Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react)
-
 ---
 
 ## 📈 GitHub Stats
@@ -51,9 +46,9 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail"></a>
-  <a href="https://yourportfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=githubpages"></a>
+  <a href="https://www.linkedin.com/in/atharv-salunke-280235338/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+  <a href="mailto:atharvsalunke@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail"></a>
+  
 </p>
 
 ---
