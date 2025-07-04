@@ -5,17 +5,19 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Passionate+about+AI+and+Software+Development;Skilled+in+MERN%2C+PERN%2C+Django%2C+Flask%2C+ML%2C+Firebase;Exploring+MLflow%2C+Ollama%2C+DataBricks+and+more;Always+open+to+collaborations+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-
 ---
 
 ## 🛠 Tech Stack
 
-### 🧠 AI/ML
+### 🧠 AI/ML & GenAI
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-blueviolet?style=flat-square&logo=scikit-learn)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![GenAI](https://img.shields.io/badge/Generative_AI-darkgreen?style=flat-square&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-VectorDB-orange?style=flat-square&logo=databricks&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=github&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0064a5?style=flat-square&logo=mlflow&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Spark-FDEE21?style=flat-square&logo=apache-spark)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
@@ -33,7 +35,6 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis)
 
 ---
----
 
 ## 📈 GitHub Stats
 
@@ -49,7 +50,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/atharv-salunke-280235338/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
   <a href="mailto:atharvsalunke@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail"></a>
-  
 </p>
 
 ---
