@@ -9,10 +9,9 @@
 
 ## 🛠 Tech Stack
 
-### 🧠 AI/ML & GenAI
+### 🧠 AI/ML
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-blueviolet?style=flat-square&logo=scikit-learn)
-![GenAI](https://img.shields.io/badge/Generative_AI-darkgreen?style=flat-square&logo=openai&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-VectorDB-orange?style=flat-square&logo=databricks&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=github&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0064a5?style=flat-square&logo=mlflow&logoColor=white)
@@ -21,18 +20,20 @@
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes)
+
 
 ---
 
 ### 💻 Web Development
 ![MERN](https://img.shields.io/badge/MERN-Stack-blue?style=flat-square&logo=javascript)
 ![PERN](https://img.shields.io/badge/PERN-Stack-yellow?style=flat-square&logo=postgresql)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django)
-![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask)
+![Express.js](https://img.shields.io/badge/Express.js-Backend-black?style=flat-square&logo=express)
+![Node.js](https://img.shields.io/badge/Node.js-Runtime-green?style=flat-square&logo=node.js)
+![Postman](https://img.shields.io/badge/Postman-API-orange?style=flat-square&logo=postman)
 ![REST API](https://img.shields.io/badge/REST-API-green?style=flat-square&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask)
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat-square&logo=firebase)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis)
+
 
 ---
 
