@@ -36,7 +36,14 @@
 
 
 ---
+### 💻 App Development
+![React Native](https://img.shields.io/badge/React_Native-Mobile-blue?style=flat-square&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-Strict-blue?style=flat-square&logo=typescript)
 
+
+
+---
 ## 📈 GitHub Stats
 
 <p align="center">
