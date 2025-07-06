@@ -14,7 +14,6 @@
 ![Machine Learning](https://img.shields.io/badge/ML-blueviolet?style=for-the-badge&logo=scikit-learn)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-red?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0064a5?style=for-the-badge&logo=mlflow)
-![RAG](https://img.shields.io/badge/RAG-VectorDB-orange?style=for-the-badge&logo=databricks)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=github)
 ![JupyterLab](https://img.shields.io/badge/JupyterLab-F37626?style=for-the-badge&logo=jupyter)
 ![Apache Spark](https://img.shields.io/badge/Spark-FDEE21?style=for-the-badge&logo=apachespark)
