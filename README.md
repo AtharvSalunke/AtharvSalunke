@@ -67,8 +67,3 @@
 
 ---
 
-## 📍 Visitor Count
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=atharvsalunke&label=Visitors&color=0e75b6&style=flat-square" alt="atharvsalunke" />
-</p>
