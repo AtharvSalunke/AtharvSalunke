@@ -19,6 +19,8 @@
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase)
 ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
 ![REST API](https://img.shields.io/badge/REST-API-green?style=for-the-badge&logo=fastapi)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
 
 ---
 ### 🤖 AI / ML 
