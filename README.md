@@ -8,20 +8,6 @@
 ---
 
 ## 🧠 Tech Stack
-
-### 🤖 AI / ML 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/ML-blueviolet?style=for-the-badge&logo=scikit-learn)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-red?style=for-the-badge&logo=tensorflow&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0064a5?style=for-the-badge&logo=mlflow)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=github)
-![JupyterLab](https://img.shields.io/badge/JupyterLab-F37626?style=for-the-badge&logo=jupyter)
-![Apache Spark](https://img.shields.io/badge/Spark-FDEE21?style=for-the-badge&logo=apachespark)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud)
-
 ---
 
 ### 🌐 Web Development
@@ -35,6 +21,20 @@
 ![REST API](https://img.shields.io/badge/REST-API-green?style=for-the-badge&logo=fastapi)
 
 ---
+### 🤖 AI / ML 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/ML-blueviolet?style=for-the-badge&logo=scikit-learn)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-red?style=for-the-badge&logo=tensorflow&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0064a5?style=for-the-badge&logo=mlflow)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=github)
+![JupyterLab](https://img.shields.io/badge/JupyterLab-F37626?style=for-the-badge&logo=jupyter)
+![Apache Spark](https://img.shields.io/badge/Spark-FDEE21?style=for-the-badge&logo=apachespark)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud)
+
+
 
 ---
 
